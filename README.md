@@ -22,10 +22,3 @@ app.post('/api/login', function (req, res, next) {
 
 ![Screenshot from 2020-04-12 18-58-04](https://user-images.githubusercontent.com/22643362/79073486-96f6b500-7cef-11ea-832d-f0b07f50f172.png)
 
-# To Run The App Locally
-following steps should be done:
-- `npm i` to install all dependencies
-- `npm run server` to start Nodejs server
-- `npm start` to run the React app
-
-After that the blank page should appear in the browser on port 5000 with only 1 button so far: Login that could be used for authentication
